@@ -1,0 +1,14 @@
+2) Analise os algoritmos abaixo e diga o que será impresso na tela ao serem executados:
+  
+  a) A <- 10 | B <- 20 
+  Escrever B | B <- 5
+  Escrever A, B
+
+  b) A <- 30 | B <- 20 | C <- A + B
+  Escrever C
+  B <- 10
+  Escrever B, C
+  Escrever A, B, C
+
+  c) A <- 10 | B <- 20 | C <- A | B <- C | A <- B 
+  Escrever A, B, C
