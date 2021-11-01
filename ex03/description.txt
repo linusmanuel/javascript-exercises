@@ -1,0 +1,6 @@
+3) Os pares de instruções abaixo produzem o mesmo resultado? 
+  A <- (4/2)+(2/4) | A <- 4/2+2/4
+  
+  B <- 4/(2+2)/4 | B <- 4/2+2/4 
+
+  C <- (4+2)*2-4 | C <- 4+2*2-4 
