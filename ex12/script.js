@@ -1,7 +1,7 @@
 /* 
 Escreva um algoritmo para ler uma temperatura em graus Fahrenheit, 
-calcular e escrever o valor correspondente em graus Celsius baseado
-nesta fórmula: C = 5 * (F - 32) / 9.
+calcular e escrever o valor correspondente em graus Celsius
+Observação: Para testar se a sua resposta está correta saiba que 100ºC = 212ºF
 */
 let gFahrenheit = parseInt(prompt("GRAUS Fahrenheit (ºF)"));
 
