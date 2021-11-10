@@ -1,7 +1,7 @@
 /* 
-Ler o salário fixo e o valor das vendas efetuadas pelo vendedor de uma empresa. Sabendo-se que
-ele recebe uma comissão de 3% sobre o total das vendas até R$ 1.500,00 mais 5% sobre o que
-ultrapassar este valor, calcular e escrever o seu salário total. 
+Faça um algoritmo para ler: número da conta do cliente, saldo, débito e crédito. Após, calcular e
+escrever o saldo atual (saldo atual = saldo - débito + crédito). Também testar se saldo atual for maior
+ou igual a zero escrever a mensagem 'Saldo Positivo', senão escrever a mensagem 'Saldo Negativo'. 
 */
 let salary = parseFloat(prompt('Informe seu salario base: '))
 let sale = parseFloat(prompt('Informe seu núemro de vendas: '))
